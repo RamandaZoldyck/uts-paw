@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import useKoleksi from '<src/hooks/useKoleksi.js'
-import KotakPencarian from 'src/components/KotakPencarian.jsx'
-import KartuItem from 'src/components/KartuItem.jsx'
+import useKoleksi from '../hooks/useKoleksi.js'
+import KotakPencarian from '../components/KotakPencarian.jsx'
+import KartuItem from '../components/KartuItem.jsx'
 
 export default function Koleksi() {
   const { items, loading, error } = useKoleksi()

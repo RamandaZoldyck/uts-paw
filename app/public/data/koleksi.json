@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Bumi",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2014,
+    "status": "selesai dibaca" 
+  },
+  {
+    "id": "2",
+    "judul": "Bulan",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2015,
+    "status": "selesai dibaca" 
+  },
+  {
+    "id": "3",
+    "judul": "Matahari",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2016,
+    "status": "belum dibaca"
+  },
+  {
+    "id": "4",
+    "judul": "Si Juki",
+    "kategori": "Komik",
+    "penulis": "Faza Ibnu Ubaydillah",
+    "tahun terbit": 2018,
+    "status": "Sudah dibaca"
+  },
+  {
+    "id": "5",
+    "judul": "Dilan 1991",
+    "kategori": "Novel",
+    "penulis": "Pidi Baiq",
+    "tahun terbit": 2014,
+    "status": "belum dibaca"
+  },
+  {
+    "id": "6",
+    "judul": "Tahi Lalats",
+    "kategori": "Komik",
+    "penulis": "Nurfadli Mursyid",
+    "tahun terbit": 2019,
+    "status": "belum dibaca"
+  },
+  {
+    "id": "7",
+    "judul": "Teka-teki rumah aneh",
+    "kategori": "Novel",
+    "penulis": "Hen Na Le",
+    "tahun terbit": 2021,
+    "status": "ingin dibeli"
+  }, 
+  {
+    "id": "8",
+    "judul": "The Last of Us",
+    "kategori": "Komik",
+    "penulis": "Neil Druckmann",
+    "tahun terbit": 2020,
+    "status": "belum dibaca"
+  },
+  {
+    "id": "9",
+    "judul": "The Last of Us Part II",
+    "kategori": "Komik",
+    "penulis": "Neil Druckmann",
+    "tahun terbit": 2020,
+    "status": "belum dibaca"
+  },
+  {
+    "id": "10",
+    "judul": "Harry Potter and the Sorcerer's Stone",
+    "kategori": "Novel",
+    "penulis": "J.K. Rowling",
+    "tahun terbit": 1997,
+    "status": "ingin dibeli"
   }
 ]
