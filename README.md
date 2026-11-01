@@ -6,7 +6,7 @@ Kelas: RB
 Tema: Rak Buku Pribadi
 Deployment: https://USERNAME.github.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda](dokumentasi/beranda.png)
 
 ## Fitur
 
