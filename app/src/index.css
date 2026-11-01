@@ -2,8 +2,8 @@
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   font-weight: 400;
-  color: #493b43;
-  background: #fff9fb;
+  color: #493942;
+  background: #fdf7f9;
 
   text-rendering: optimizeLegibility;
 }
@@ -17,16 +17,16 @@ body {
 h1,
 h2,
 h3 {font-family: handwritten, cursive; 
-    color: #563e4b;
+    color: #5c414f;
 }
 
 a{
-  color: #b56d8b;
+  color: #b66a8a;
   text-decoration: none;
 }
 
 a:hover {
-  color: #92516f;
+  color: #944b6d;
   text-decoration: none;
 }
 
