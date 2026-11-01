@@ -1,3 +1,6 @@
+.statistik {
+text-align: center;  
+}
 .tabel-gulir {
   overflow-x: auto;
 }
@@ -40,3 +43,4 @@
     padding: 0.4rem 0.5rem;
   }
 }
+

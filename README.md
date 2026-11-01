@@ -75,7 +75,9 @@ Deployment: https://USERNAME.github.io/uts-paw/
 
 ## Fitur
 
-- ...
+- pencarian 
+- tambah buku
+- statistik
 
 ## Menjalankan secara lokal
 
@@ -85,5 +87,6 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
-```
+- context API untuk state koleksi: createontext, provider dan useContext
+- minimal 2 costum hook
+- HTML semantik (header, nav, main, footer) dan css responsif
